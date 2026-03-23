@@ -1,0 +1,1340 @@
+[
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0846_jpeg.jpg",
+      "text": "74037DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0846_jpeg2.jpg",
+      "text": "74040DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0846_jpeg3.jpg",
+      "text": "74037DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0846_jpeg4.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0846_jpeg5.jpg",
+      "text": "74040DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0846_jpeg6.jpg",
+      "text": "74034DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0846_jpeg7.jpg",
+      "text": "74033DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0846_jpeg8.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0846_jpeg9.jpg",
+      "text": "74033DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0846_jpeg10.jpg",
+      "text": "74034DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg.jpg",
+      "text": "5396"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg2.jpg",
+      "text": "3291"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg3.jpg",
+      "text": "5396"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg4.jpg",
+      "text": "31254DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg5.jpg",
+      "text": "5383"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg6.jpg",
+      "text": "5395"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg7.jpg",
+      "text": "3295"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg8.jpg",
+      "text": "5115"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg9.jpg",
+      "text": "31287"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg10.jpg",
+      "text": "5382"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg11.jpg",
+      "text": "5382"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg12.jpg",
+      "text": "31267"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg13.jpg",
+      "text": "31243"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg14.jpg",
+      "text": "3291"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg15.jpg",
+      "text": "5395"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg16.jpg",
+      "text": "31266"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg17.jpg",
+      "text": "31270"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg18.jpg",
+      "text": "31257DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg19.jpg",
+      "text": "31247DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg20.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg21.jpg",
+      "text": "31266"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg22.jpg",
+      "text": "31243"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg23.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg24.jpg",
+      "text": "31254DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg25.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg26.jpg",
+      "text": "31260"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg27.jpg",
+      "text": "31247DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg28.jpg",
+      "text": "5115"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg29.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg30.jpg",
+      "text": "3295"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg31.jpg",
+      "text": "31275DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg32.jpg",
+      "text": "31257DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg33.jpg",
+      "text": "5547"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg34.jpg",
+      "text": "31269"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg35.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg36.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg37.jpg",
+      "text": "5547"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg38.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0848_jpeg39.jpg",
+      "text": "31260"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg.jpg",
+      "text": "31266"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg2.jpg",
+      "text": "31266"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg3.jpg",
+      "text": "31267"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg4.jpg",
+      "text": "31257DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg5.jpg",
+      "text": "31260"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg6.jpg",
+      "text": "31267"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg7.jpg",
+      "text": "31257DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg8.jpg",
+      "text": "31247DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg9.jpg",
+      "text": "31259"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg10.jpg",
+      "text": "31320"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg11.jpg",
+      "text": "31254DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg12.jpg",
+      "text": "31320"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg13.jpg",
+      "text": "5547"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg14.jpg",
+      "text": "31243"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg15.jpg",
+      "text": "31259"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg16.jpg",
+      "text": "31254DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg17.jpg",
+      "text": "31315DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg18.jpg",
+      "text": "5547"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg19.jpg",
+      "text": "31260"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg20.jpg",
+      "text": "31243"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg21.jpg",
+      "text": "31307"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg22.jpg",
+      "text": "31247DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg23.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0849_jpeg24.jpg",
+      "text": "31247DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg.jpg",
+      "text": "42145"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg2.jpg",
+      "text": "42248DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg3.jpg",
+      "text": "42151DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg4.jpg",
+      "text": "42146DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg5.jpg",
+      "text": "42146DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg6.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg7.jpg",
+      "text": "42145"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg8.jpg",
+      "text": "42250"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg9.jpg",
+      "text": "42146DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg10.jpg",
+      "text": "42151DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg11.jpg",
+      "text": "42248DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg12.jpg",
+      "text": "42250"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg13.jpg",
+      "text": "42248"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg14.jpg",
+      "text": "42251DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg15.jpg",
+      "text": "42251DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg16.jpg",
+      "text": "42151DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg17.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg18.jpg",
+      "text": "42151DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0852_jpeg19.jpg",
+      "text": "42151DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0853_jpeg.jpg",
+      "text": "43163"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0853_jpeg2.jpg",
+      "text": "42248"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0853_jpeg3.jpg",
+      "text": "42264"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0853_jpeg4.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0853_jpeg5.jpg",
+      "text": "42264"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0853_jpeg6.jpg",
+      "text": "1081"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0853_jpeg7.jpg",
+      "text": "42251DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0853_jpeg8.jpg",
+      "text": "42251DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0853_jpeg9.jpg",
+      "text": "43152DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0853_jpeg10.jpg",
+      "text": "43159"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0853_jpeg11.jpg",
+      "text": "52948"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg.jpg",
+      "text": "45471"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg2.jpg",
+      "text": "45413"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg3.jpg",
+      "text": "45482"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg4.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg5.jpg",
+      "text": "53010"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg6.jpg",
+      "text": "45572"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg7.jpg",
+      "text": "45412"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg8.jpg",
+      "text": "45112"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg9.jpg",
+      "text": "45412"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg10.jpg",
+      "text": "44749DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg11.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg12.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg13.jpg",
+      "text": "45112"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg14.jpg",
+      "text": "44749DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg15.jpg",
+      "text": "45572"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg16.jpg",
+      "text": "45413"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg17.jpg",
+      "text": "45111"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg18.jpg",
+      "text": "44691DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg19.jpg",
+      "text": "45412"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg20.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg21.jpg",
+      "text": "45413"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg22.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg23.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg24.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg25.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg26.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg27.jpg",
+      "text": "18200"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg28.jpg",
+      "text": "44439"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg29.jpg",
+      "text": "44624"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg30.jpg",
+      "text": "45111"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg31.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg32.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg33.jpg",
+      "text": "45482"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg34.jpg",
+      "text": "45482"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0855_jpeg35.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg.jpg",
+      "text": "55067DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg2.jpg",
+      "text": "55067DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg3.jpg",
+      "text": "55057DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg4.jpg",
+      "text": "55066DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg5.jpg",
+      "text": "54130"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg6.jpg",
+      "text": "55057DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg7.jpg",
+      "text": "55054DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg8.jpg",
+      "text": "55055"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg9.jpg",
+      "text": "55054DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg10.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg11.jpg",
+      "text": "55079DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg12.jpg",
+      "text": "54130"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg13.jpg",
+      "text": "55093DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg14.jpg",
+      "text": "56093DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg15.jpg",
+      "text": "55094DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg16.jpg",
+      "text": "55083DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg17.jpg",
+      "text": "55040DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg18.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg19.jpg",
+      "text": "55085DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg20.jpg",
+      "text": "55040DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg21.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg22.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg23.jpg",
+      "text": "9046"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg24.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg25.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg26.jpg",
+      "text": "55094DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg27.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg28.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg29.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg30.jpg",
+      "text": "55083DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg31.jpg",
+      "text": "55055"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg32.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg33.jpg",
+      "text": "55067DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg34.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0856_jpeg35.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg.jpg",
+      "text": "78032DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg2.jpg",
+      "text": "79504DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg3.jpg",
+      "text": "79504DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg4.jpg",
+      "text": "78033DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg5.jpg",
+      "text": "79510DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg6.jpg",
+      "text": "78053DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg7.jpg",
+      "text": "78053DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg8.jpg",
+      "text": "78033DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg9.jpg",
+      "text": "79507DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg10.jpg",
+      "text": "78032DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg11.jpg",
+      "text": "78032DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg12.jpg",
+      "text": "78032DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg13.jpg",
+      "text": "7506DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg14.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg15.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg16.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg17.jpg",
+      "text": "75060"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg18.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg19.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg20.jpg",
+      "text": "79510DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg21.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0858_jpeg22.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg2.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg3.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg4.jpg",
+      "text": "76015DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg5.jpg",
+      "text": "76015DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg6.jpg",
+      "text": "7214"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg7.jpg",
+      "text": "76015DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg8.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg9.jpg",
+      "text": "76013DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg10.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg11.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg12.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg13.jpg",
+      "text": "76660DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg14.jpg",
+      "text": "76660DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg15.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg16.jpg",
+      "text": "76013DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg17.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg18.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg19.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg20.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg21.jpg",
+      "text": "76013DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg22.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg23.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg24.jpg",
+      "text": "76013DL"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg25.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg26.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg27.jpg",
+      "text": ""
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=test/rawCropTest/IMG_0860_jpeg28.jpg",
+      "text": ""
+    }
+  }
+]
